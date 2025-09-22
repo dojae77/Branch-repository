@@ -1,5 +1,6 @@
 ABCDEFGHIJKLMNOPURSTUVWXYZ
   #안녕 ㅎㅎ
+	#가나다라마바사아자
 
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
