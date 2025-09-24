@@ -1,1 +1,1 @@
-ABCDEFGHIJKL
+Hello world!
